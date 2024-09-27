@@ -22,10 +22,10 @@ All content is responsive and looks attractive thanks to modern design principle
 ### 1. Clone the Repository
 ### 2. Navigate to the Project Directory
 ### 3. Install Dependencies
-Run the following command to install the required dependencies: npm install
+Run the following command to install the required dependencies: • npm install
 ### 4. Run the Project
-Run the following command for running a local development server: npm run start
+Run the following command for running a local development server: • npm run start
 
 ### Additional Notes
-	•	Make sure you have Node.js and npm installed before running the commands.
-	•	If you’re using a specific version of Node.js or npm, mention it (e.g., “Node.js v14.x.x”).
+	- Make sure you have Node.js and npm installed before running the commands.
+	- If you’re using a specific version of Node.js or npm, mention it (e.g., “Node.js v14.x.x”).
