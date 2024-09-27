@@ -29,5 +29,5 @@ Run the following command for running a local development server: npm run start
 If you need to build the project for production (to deploy it), you might have a command like this: npm run deploy
 
 ### Additional Notes
-	- Make sure you have Node.js and npm installed before running the commands.
-	- If you’re using a specific version of Node.js or npm, mention it (e.g., “Node.js v14.x.x”).
+Make sure you have Node.js and npm installed before running the commands.
+If you’re using a specific version of Node.js or npm, mention it (e.g., “Node.js v14.x.x”).
