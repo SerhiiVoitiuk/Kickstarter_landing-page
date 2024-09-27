@@ -25,6 +25,8 @@ All content is responsive and looks attractive thanks to modern design principle
 Run the following command to install the required dependencies: npm install
 ### 4. Run the Project
 Run the following command for running a local development server: npm run start
+### 5. Build the Project for Production
+If you need to build the project for production (to deploy it), you might have a command like this: npm run deploy
 
 ### Additional Notes
 	- Make sure you have Node.js and npm installed before running the commands.
