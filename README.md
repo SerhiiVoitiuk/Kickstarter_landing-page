@@ -15,4 +15,4 @@ All content is responsive and looks attractive thanks to modern design principle
   - [DEMO LINK](https://serhiivoitiuk.github.io/Kickstarter_landing-page/)
 
 **Project design link**
-  - [BO landing](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&node-type=canvas&t=Ne0iVCdUMOKgv39C-0)
+  - [Kickstarter landing](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&node-type=canvas&t=Ne0iVCdUMOKgv39C-0)
