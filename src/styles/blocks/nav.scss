@@ -1,0 +1,44 @@
+.nav {
+  display: none;
+
+  @include content-padding-inline;
+
+  @include on-desktop{
+    margin: 0;
+    display: block;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 84px;
+
+    margin: 0;
+    padding: 28px 0;
+    list-style: none;
+
+
+    opacity: 0;
+    transform: translateY(100px);
+  }
+
+  &__links {
+    display: inline-block;
+
+    &--link {
+      @extend %thirdaryText-desktop;
+
+      text-decoration: none;
+      color: $c-medium-gray;
+      
+      transition: all 0.3s;
+      cursor: pointer;
+
+    &:hover {
+      color: $c-dark-gray;
+      font-weight: 700;
+    }
+    }
+  }
+}

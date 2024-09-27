@@ -1,0 +1,34 @@
+.banner {
+  margin: 110px 0;
+  padding-inline: 12px;
+
+  @include on-tablet {
+    margin: 140px 0;
+
+    @include content-padding-inline;
+  }
+
+  @include on-desktop {
+    margin: 170px 0;
+
+    @include content-padding-inline;
+  }
+
+  &__picture {
+    background-image: url(../images/mobile_img/MeetLuna.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 195px;
+
+    @include on-tablet {
+      height: 430px;
+      background-image: url(../images/tablet_img/MeetLuna.png);
+    }
+
+    @include on-desktop {
+      height: 520px;
+      background-image: url(../images/desktop_img/MeetLuna.png);
+    }
+  }
+}
